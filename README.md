@@ -13,3 +13,9 @@ PS1='\[\e[38;5;223;1m\][\[\e[38;5;186m\]\A\[\e[38;5;223m\]]\[\e[38;5;218m\]@\[\e
 ```bash
 sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si && yay -S hyprshot
 ```
+
+# GFYS
+
+```bash
+yay -S hyprshot ttf-Cascadia-code-nerd
+```
