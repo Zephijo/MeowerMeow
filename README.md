@@ -17,5 +17,5 @@ sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/ya
 # GFYS
 
 ```bash
-yay -S hyprshot ttf-Cascadia-code-nerd
+yay -S hyprshot
 ```
