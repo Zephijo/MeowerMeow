@@ -1,6 +1,6 @@
 # Idk Needed?
 ```bash
-sudo pacman -S --needed git base-devel zip unzip pipewire pipewire-pulse kitty vim rofi hyprlock hypridle hyprpaper waybar
+sudo pacman -S --needed git base-devel zip unzip pipewire pipewire-pulse kitty vim rofi hyprlock hypridle hyprpaper waybar ttf-cascadia-code-nerd
 ```
 # Optional Bash
 
